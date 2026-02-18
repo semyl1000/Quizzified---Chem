@@ -11,7 +11,7 @@ For questions or feedback, contact: Sebastian Myllek, quizzifiedchem@icloud.com
 Quizzified - Chem is designed with your privacy in mind.
 
 ### Analytics
-This app uses TelemetryDeck, a privacy-focused analytics service, to collect anonymous usage data. This helps us understand which features are used most and improve the app. TelemetryDeck does not collect personal identifiers, and all data is aggregated and anonymized.
+This app uses TelemetryDeck, a privacy-focused analytics service, to collect anonymous usage data. This helps us understand which features are used most and improve the app. TelemetryDeck does not collect personal identifiers, all data is aggregated and anonymized and used solely to further improve the app.
 
 ### Local Storage
 
