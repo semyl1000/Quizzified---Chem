@@ -4,7 +4,7 @@ An organic chemistry quiz app for students and professionals.
 
 ## Support
 
-For questions or feedback, contact: quizzifiedchem@icloud.com
+For questions or feedback, contact: Sebastian Myllek, quizzifiedchem@icloud.com
 
 ## Privacy Policy
 
