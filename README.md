@@ -9,9 +9,17 @@ For questions or feedback, contact: quizzifiedchem@icloud.com
 ## Privacy Policy
 
 Quizzified - Chem is designed with your privacy in mind.
-### Data Collection
-This app does not collect, store, or transmit any personal data. We do not use analytics, tracking, or advertising services.
+
+### Analytics
+This app uses TelemetryDeck, a privacy-focused analytics service, to collect anonymous usage data. This helps us understand which features are used most and improve the app. TelemetryDeck does not collect personal identifiers, and all data is aggregated and anonymized. We track which quiz modules you visit, but not your quiz answers, scores, or any personal information.
+
 ### Local Storage
-All In-App informations are stored locally on your device using Apple's built-in data storage. This data never leaves your device and is not accessible to us.
+
+Your quiz progress and saved flashcards are stored locally on your device using Apple's built-in data storage. This data never leaves your device and is not accessible to us.
+
 ### Third-Party Services
-This app does not integrate with any third-party services that collect user data.
+
+Apart from TelemetryDeck for anonymous analytics, this app does not integrate with any third-party services that collect user data.
+Contact
+
+If you have questions about this privacy policy, don't hesitate to reach out!
